@@ -1,4 +1,6 @@
-# flutter_plugin_pubdev
+# Plugin Managemen Flutter
+
+Semester 5 Pemrogaman Mobile
 
 A new Flutter project.
 
